@@ -4,7 +4,7 @@
 
 WordPress WordPress dünyanın en popüler web sitesi oluşturma platformudur.
 
-[Overview of WordPress](http://www.wordpress.org)
+[Wordpress hakkında detaylı bilgi](http://www.wordpress.org)
 
 
                            
